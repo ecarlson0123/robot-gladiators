@@ -139,8 +139,8 @@ var fight = function(enemy) {
         window.alert(playerInfo.name + ' still has ' + playerInfo.health + ' health left.');
       }
     } // end of while loop
-}; // end of fight function
-
+} // end of fight function
+}
 
 var endGame = function() {
     window.alert("The game has now ended. Let's see how you did!");
